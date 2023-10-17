@@ -1,0 +1,6 @@
+#prestashop application
+
+
+/vendor/
+
+composer.lock
